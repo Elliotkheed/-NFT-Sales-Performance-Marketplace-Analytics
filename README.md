@@ -1,4 +1,4 @@
-# -NFT-Sales-Performance-Marketplace-Analytics
+# NFT Sales Performance Marketplace Analytics
 A Power BI dashboard project analyzing NFT sales trends using real-world historical data from Kaggle.
 Source: Kaggle - NFT Sales History Dataset
 
